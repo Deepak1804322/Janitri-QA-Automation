@@ -5,7 +5,7 @@ This project is built as part of the Janitri QA Internship Assignment. It automa
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java
 - Selenium WebDriver
 - TestNG
